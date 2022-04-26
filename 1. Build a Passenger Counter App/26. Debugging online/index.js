@@ -13,4 +13,4 @@ function save() {
 }
 
 // Google:
-// innerText alternative mdn
+// innerText alternative mdn = textContent
