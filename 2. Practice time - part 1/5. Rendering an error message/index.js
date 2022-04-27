@@ -6,7 +6,7 @@ let errorPing = document.getElementById("error")
 console.log(errorPing)
 
 function purchase() {
-    console.log("button clicked")     
+    console.log("button clicked")
     errorPing.textContent = "Something went wrong, please try again"
 }
 
